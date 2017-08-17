@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>PreviousNext</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Previous Next Product</summary>
+    <description>Previous Next Product</description>
+    <notes>Previous Next ProductPrevious Next Product</notes>
+    <authors><author><name>Feh&#xE9;rdi L&#xF3;r&#xE1;nd</name><user>heaven7</user><email>feherdi.lorand@gmail.com</email></author></authors>
+    <date>2013-11-06</date>
+    <time>12:58:22</time>
+    <contents><target name="magecommunity"><dir name="Heaven7"><dir name="Previousnext"><dir name="Helper"><file name="Data.php" hash="0d97462e7d8122d4849963f8cfdf9dc2"/></dir><dir name="Model"><file name="Openin.php" hash="05d17f65330492c0305d00d2589439eb"/><file name="Position.php" hash="1e937f6eda132f5b82afac349cf81d58"/><file name="Type.php" hash="f03b75fb803c61ed7e8276618d05cb73"/></dir><dir name="etc"><file name="config.xml" hash="4315a092177683b32664affcf95bbc22"/><file name="system.xml" hash="a21fb319e79747cfa9f0103eea864459"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Heaven7_Previousnext.xml" hash="6ebd2c103f87a107d82f8e2279e2c32f"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="previousnext.xml" hash="bc5a441414a1f7014a38ec7fa8fe1c5b"/></dir><dir name="template"><dir name="previousnext"><file name="after.phtml" hash="34f15518d6093cd929498dc9d6eedad1"/><file name="before.phtml" hash="0ddf413e422e3859471ff633ec25e80a"/></dir></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="css"><file name="previousnext.css" hash="f5e4264af369c3c98b364e6b7106d1e2"/></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>5.4.8</max></php></required></dependencies>
+</package>
